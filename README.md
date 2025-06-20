@@ -116,7 +116,7 @@ Video playback support
 
 Output screenshots:
 
-![Screenshot 2025-06-20 205426](https://github.com/user-attachments/assets/7995f078-1c7f-4e92-9ae8-f665d5063cd4)
+<img src="./public/output/output1.png">
  
 
 📬 Contact
