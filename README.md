@@ -116,7 +116,7 @@ Video playback support
 
 Output screenshots:
 
-![output](https://github.com/user-attachments/assets/a96713f2-fa20-4134-b11f-c87e1811605d)
+(https://github.com/Yaganti-Spandana/Application/blob/main/output/output1.png)
 ![output](output/output2.png")
 ![output](output/output3.png")
 ![output](output/output4.png")
