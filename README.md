@@ -4,7 +4,7 @@ A sleek and dynamic UI clone of video streaming platforms like *Hotstar* and *Am
 
 ## 🚀 Live Demo
 
-👉 [View Deployed App on Netlify/Vercel](http://localhost:3000/)
+👉 [View Deployed App on Netlify/Vercel](https://hotstarapplication.netlify.app/)
 
 ---
 
