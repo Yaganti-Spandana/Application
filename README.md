@@ -43,7 +43,21 @@ src/ │   ├── assets/
 - *Static JSON for content simulation*
 
 ---
+## 📸Output Screenshots
 
+### OUTPUT
+![Screenshot 2025-06-20 205426](https://github.com/user-attachments/assets/ccac5bfc-767b-4ae1-b892-deecffadb351)
+
+### OUTPUT
+![Screenshot 2025-06-20 205447](https://github.com/user-attachments/assets/825a0ced-1466-46d0-9d63-d839d7584a1b)
+
+### OUTPUT
+![Screenshot 2025-06-20 205507](https://github.com/user-attachments/assets/f15daaa4-c9ab-4fa7-8fcb-146e03d88e2b)
+
+### OUTPUT
+![Screenshot 2025-06-20 205528](https://github.com/user-attachments/assets/70bf6e0b-dc51-4ce5-9ff0-30905ea9c139)
+
+---
 ## 📦 Getting Started
 
 ### 1. Clone the repository
@@ -114,13 +128,6 @@ Video playback support
 
 ---
 
-Output screenshots:
-
-(https://github.com/Yaganti-Spandana/Application/blob/main/output/output1.png)
-![output](output/output2.png")
-![output](output/output3.png")
-![output](output/output4.png")
- 
 
 📬 Contact
 
