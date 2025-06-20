@@ -1,0 +1,17 @@
+{ 
+    "trending": [ 
+        { "title":"/movie_wallpapers/demon.jpg", "poster": "Url", "description": "Demon" }, 
+        { "title":"/movie_wallpapers/karthika.jpg", "poster": "Url", "description": "Karthika-Missing-Case" } 
+        ], 
+    "thriller":[
+        { "title":"/movie_wallpapers/kolla.jpg", "poster": "Url", "description": "Kolla" },
+        { "title":"/movie_wallpapers/hit.jpg", "poster": "Url", "description": "Hit-3" },
+        { "title":"/movie_wallpapers/blind.jpg", "poster": "Url", "description": "Blind Spot" }
+    ],
+    "continueWatching": [ 
+        { "title":"/movie_wallpapers/shubam.jpg", "poster": "Url", "description": "Subham" } 
+        ], 
+    "genres": [ 
+        { "title":"/movie_wallpapers/brundavanam.jpg", "poster": "Url", "description": "Oka Brundavanam" } 
+    ] 
+}

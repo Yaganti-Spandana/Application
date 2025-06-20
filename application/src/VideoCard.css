@@ -1,0 +1,16 @@
+.video-card { 
+    transition: transform 0.3s; 
+    cursor: pointer; 
+    border-radius: 30px; 
+}
+
+.video-card:hover { 
+    transform: scale(1.05); 
+}
+
+.video-image { 
+    border-radius: 10px; 
+}
+.des{
+    text-align: center;
+}
