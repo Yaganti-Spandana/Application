@@ -116,7 +116,7 @@ Video playback support
 
 Output screenshots:
 
-![output](output/output1.png")
+![output](https://github.com/user-attachments/assets/a96713f2-fa20-4134-b11f-c87e1811605d)
 ![output](output/output2.png")
 ![output](output/output3.png")
 ![output](output/output4.png")
